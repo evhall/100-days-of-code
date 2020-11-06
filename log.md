@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 4, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started Udacity Front End Development Course and restarted freeCodeCamp Resposive Web Developement Certificate. Got all the way to Flexbox lessons. I also did two days of 30 Days of Code on HackerRank. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I was able to fly through the HTML lessons and the beginning CSS lessons on Udacity and freeCodeCamp. HackerRank was harder than I thought for the easy ones because I have no real JavaScript experience. I worked in Java which I have a small knowledge of. 
 
 
-### Day 1: June 27, Monday
+### Day 1: November 5, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I went through all the Flexbox lessons on freeCodeCamp and the CSS lesson in Udacity. Going to go for the Flexbox lessons with notes before bed. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I have never learned Flexbox before and will probably need more in depth lessons on it and some hands on. Will check blog articles and plan it into future projects to start soon. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
